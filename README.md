@@ -1,8 +1,8 @@
 # Wassup, Alexsandro Urbano here. ;)
 
-
-## Contato:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RedSpyBR#9490) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alexsandro.urbano.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexsandro.urbano9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexsandro-urbano-666292237) 
+<p>
+  Meu nome é Alexsandro Urbano - 19/07/2004 - São Paulo - SP, sou estudante na instituição ETEC Albert Einstein, cursando o Ensino Médio com Habilitação Profissional de Técnico em Desenvolvimento de Sistemas, tenho um enorme interesse pela área de Informática, programação de aplicativos para computador e mobile, banco de dados e design digital. Grande disposição para o aprendizado e a aplicação de conhecimentos e habilidades interpessoais no âmbito profissional, buscando crescimento constante.
+</p>
 
 ## Principais habilidades:
 <p align="left">
@@ -31,6 +31,9 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alegsandrin&show_icons=true&locale=en&layout=compact&theme=dracula" alt="alegsandrin" />
 </p>
+
+## Contato:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RedSpyBR#9490) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alexsandro.urbano.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexsandro.urbano9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexsandro-urbano-666292237) 
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
