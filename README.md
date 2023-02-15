@@ -29,7 +29,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alegsandrin&theme=dracula&hide_border=true&show_icons=true" alt="alegsandrin" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alegsandrin&show_icons=true&locale=en&layout=compact&theme=dracula" alt="alegsandrin" />
 </p>
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
