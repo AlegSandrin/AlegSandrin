@@ -1,6 +1,6 @@
 # Wassup, Alexsandro Urbano here. ;)
-  
-<a href="https://ibb.co/0JKPJfp"><img src="https://i.ibb.co/KyDCy9c/red-notebook.png" weidth="350px" height="350px" align="right" alt="red-notebook"></a>
+
+<a href="https://alegsandrin-portfolio.vercel.app/"><img src="https://i.ibb.co/Hd1pGQC/red-notebook-port.png" weidth="350px" height="370px" align="right" alt="meu OC em um notebook"></a>
 
 <p>
   Meu nome é Alexsandro Urbano - 19/07/2004 - São Paulo - SP, sou estudante na instituição ETEC Albert Einstein, cursando o Ensino Médio com Habilitação Profissional de Técnico em Desenvolvimento de Sistemas, tenho um enorme interesse pela área de Informática, programação de aplicativos para computador e mobile, banco de dados e design digital. Grande disposição para o aprendizado e a aplicação de conhecimentos e habilidades interpessoais no âmbito profissional, buscando crescimento constante.
