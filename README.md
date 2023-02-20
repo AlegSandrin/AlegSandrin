@@ -1,9 +1,11 @@
 # Wassup, Alexsandro Urbano here. ;)
+  
+<a href="https://ibb.co/0JKPJfp"><img src="https://i.ibb.co/KyDCy9c/red-notebook.png" weidth="350px" height="350px" align="right" alt="red-notebook"></a>
 
 <p>
   Meu nome é Alexsandro Urbano - 19/07/2004 - São Paulo - SP, sou estudante na instituição ETEC Albert Einstein, cursando o Ensino Médio com Habilitação Profissional de Técnico em Desenvolvimento de Sistemas, tenho um enorme interesse pela área de Informática, programação de aplicativos para computador e mobile, banco de dados e design digital. Grande disposição para o aprendizado e a aplicação de conhecimentos e habilidades interpessoais no âmbito profissional, buscando crescimento constante.
 </p>
-
+  
 ## Principais habilidades:
 <p align="left">
 <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> 
