@@ -3,8 +3,7 @@
 <a href="https://alegsandrin-portfolio.vercel.app/"><img src="https://i.ibb.co/Hd1pGQC/red-notebook-port.png" weidth="350px" height="370px" align="right" alt="meu OC em um notebook"></a>
 
 
-### Estudante em Desenvolvimento de Software/Web/Mobile <img src="https://cdn-icons-png.flaticon.com/512/5741/5741483.png" align="left" alt="computer" width="40" height="40"/>  
-<br>
+<img src="https://cdn-icons-png.flaticon.com/512/5741/5741483.png" align="left" alt="computer" width="35" height="35"/> Estudante em Desenvolvimento de Software/Web/Mobile
 
 
 ## Habilidades:
