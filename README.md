@@ -1,9 +1,9 @@
+
 # Wassup, Alexsandro Urbano here. ;)
 <img src="https://cdn-icons-png.flaticon.com/512/5741/5741483.png" alt="computer" width="25" height="25"/> Estudante em Desenvolvimento de Software/Web/Mobile
 
 <a href="https://alegsandrin-portfolio.vercel.app/"><img src="https://i.ibb.co/Hd1pGQC/red-notebook-port.png" align="right" weidth="350px" height="350px" alt="meu OC em um notebook"></a>
 
-## Habilidades:
 <p align="left">
 <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
