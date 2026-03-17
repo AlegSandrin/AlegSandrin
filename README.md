@@ -31,7 +31,7 @@
 </p>
 
 ## Fale comigo:
-<a href="mailto:alexsandrourbano157@gmail.com" alt="Contact me"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></code></a>&nbsp;<a href="[https://www.linkedin.com/in/harshal-jadhav-298ba416a/](https://linkedin.com/in/alexsandro-urbano-666292237)" alt="Linkedin"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg"></code></a>
+<a href="mailto:alexsandrourbano157@gmail.com" alt="Email"><code><img alt="email" height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></code></a>&nbsp;<a target="_blank" rel="noreferrer" href="https://linkedin.com/in/alexsandro-urbano-666292237" alt="Linkedin"><code><img alt="linkedin" height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg"></code></a>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alegsandrin&show_icons=true&locale=en&layout=compact&theme=github_dark" align="center" alt="alegsandrin" />
