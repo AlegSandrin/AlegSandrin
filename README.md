@@ -34,9 +34,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexsandro-urbano-666292237) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexsandro.urbano9) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alexsandro.urbano.1)
-<p align="left">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="redspybr" height="30" width="40" />: redspybr
-</p>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alegsandrin&show_icons=true&locale=en&layout=compact&theme=github_dark" align="center" alt="alegsandrin" />
